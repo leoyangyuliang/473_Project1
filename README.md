@@ -19,19 +19,19 @@
             Last 4 digits CWID: 1548
         2.Henry Ho:
             School email: @csu.fullerton.edu
-            Last 4 digits CWID: 
+            Last 4 digits CWID:
         3.Henry Ho:
             School email: @csu.fullerton.edu
-            Last 4 digits CWID: 
+            Last 4 digits CWID:
         4.Henry Ho:
             School email: @csu.fullerton.edu
-            Last 4 digits CWID: 
+            Last 4 digits CWID:
         5.Henry Ho:
             School email: @csu.fullerton.edu
-            Last 4 digits CWID: 
+            Last 4 digits CWID:
 
     III.Requirements:
-
+    
     1.Working with other teams:
 
         You may discuss your project and the technologies you are using with other teams
@@ -47,8 +47,10 @@
 
     3.Presentations:
 
-        On presentation day, you will have 15 minutes to give a short demonstration of your application to the class.
-        Include both functionality and implementation details. Your entire team must be present and available to answer questions, but individual team members may volunteer to deliver the presentation.
+        On presentation day, you will have 15 minutes to give a short demonstration of your application
+        to the class.
+        Include both functionality and implementation details. Your entire team must be present and available
+        to answer questions, but individual team members may volunteer to deliver the presentation.
 
     4.Grading:
 
@@ -70,4 +72,5 @@
 
         Upload the code and documentation for this project to a new public GitHub repository.
         To complete your submission, print the next two sheets, fill out the spaces on the first sheet,
-        and submit both sheets to the professor in class by presentation day. Failure to follow the instructions exactly will incur a 10% penalty on the grade for this assignment.
+        and submit both sheets to the professor in class by presentation day.
+        Failure to follow the instructions exactly will incur a 10% penalty on the grade for this assignment.
