@@ -2,15 +2,16 @@
                             CPSC 473: Front-End Web Engineering - Summer 2018
                             Project One, due 24 July 2018
                             Team Name: The Father Of Love
-I.Our project:
+    I.Our project:
 
         Build a site where Visitors can create their own “which character are you?” quizzes.
 
-II.Technologies: 
+    II.Technologies: 
 
         Use client-side JavaScript, Ajax, Mysql, PHP, HTML, CSS,             Bootstrap to build the website with database running on              localhost.
 
-III.Team members:
+    III.Team members:
+    
         1.Henry Ho:
             School email: vho23@csu.fullerton.edu
             Last 4 digits CWID: 1548
@@ -27,7 +28,7 @@ III.Team members:
             School email: @csu.fullerton.edu
             Last 4 digits CWID: 
 
-III.Requirements:
+    III.Requirements:
 
     1.Working with other teams:
 
