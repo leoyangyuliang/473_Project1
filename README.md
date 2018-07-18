@@ -8,10 +8,12 @@
 
     II.Technologies: 
 
-        Use client-side JavaScript, Ajax, Mysql, PHP, HTML, CSS,             Bootstrap to build the website with database running on              localhost.
+        Use client-side JavaScript, Ajax, Mysql, PHP, HTML, CSS,
+        Bootstrap to build the website with database running on 
+        localhost.
 
     III.Team members:
-    
+
         1.Henry Ho:
             School email: vho23@csu.fullerton.edu
             Last 4 digits CWID: 1548
@@ -37,9 +39,11 @@
 
     2.Working with members of your team In general: 
 
-        each student in a group will receive the same grade. If you run into issues with your teammates, it is your responsibility to attempt to resolve them. 
+        each student in a group will receive the same grade. If you run into issues with your teammates,
+        it is your responsibility to attempt to resolve them. 
         If you are unable to work with a member of your team (for example, if they disappear and fail to
-        respond to attempts to contact them), bring the problem to my attention as soon as possible -- do not wait until the due date.
+        respond to attempts to contact them), bring the problem to my attention as soon as possible
+        do not wait until the due date.
 
     3.Presentations:
 
@@ -48,8 +52,10 @@
 
     4.Grading:
 
-        Each of the following factors contributes up to 3 points to the final grade for the project, for a total of 30
+        Each of the following factors contributes up to 3 points to the final grade for the project,
+        for a total of 30
         points:
+
         1. Quality of the presentation
         2. Quality of documentation for installing and configuring the application
         3. Quality of documentation for users trying out the application
@@ -62,4 +68,6 @@
 
     5.Submission:
 
-        Upload the code and documentation for this project to a new public GitHub repository.To complete your submission, print the next two sheets, fill out the spaces on the first sheet, and submit both sheets to the professor in class by presentation day. Failure to follow the instructions exactly will incur a 10% penalty on the grade for this assignment.
+        Upload the code and documentation for this project to a new public GitHub repository.
+        To complete your submission, print the next two sheets, fill out the spaces on the first sheet,
+        and submit both sheets to the professor in class by presentation day. Failure to follow the instructions exactly will incur a 10% penalty on the grade for this assignment.
