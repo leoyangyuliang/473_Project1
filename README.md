@@ -34,23 +34,22 @@
     
     1.Working with other teams:
 
-        You may discuss your project and the technologies you are using with other teams
-        but each team must build its own application and submit its own work.
+        You may discuss your project and the technologies you are using with other teams but each team 
+        must build its own application and submit its own work.
 
     2.Working with members of your team In general: 
 
         each student in a group will receive the same grade. If you run into issues with your teammates,
-        it is your responsibility to attempt to resolve them. 
-        If you are unable to work with a member of your team (for example, if they disappear and fail to
-        respond to attempts to contact them), bring the problem to my attention as soon as possible
-        do not wait until the due date.
+        it is your responsibility to attempt to resolve them. If you are unable to work with a member of 
+        your team (for example, if they disappear and fail to respond to attempts to contact them), bring 
+        the problem to my attention as soon as possible do not wait until the due date.
 
     3.Presentations:
 
         On presentation day, you will have 15 minutes to give a short demonstration of your application
-        to the class.
-        Include both functionality and implementation details. Your entire team must be present and available
-        to answer questions, but individual team members may volunteer to deliver the presentation.
+        to the class. Include both functionality and implementation details. Your entire team must be 
+        present and available to answer questions, but individual team members may volunteer to deliver 
+        the presentation.
 
     4.Grading:
 
@@ -70,7 +69,7 @@
 
     5.Submission:
 
-        Upload the code and documentation for this project to a new public GitHub repository.
-        To complete your submission, print the next two sheets, fill out the spaces on the first sheet,
-        and submit both sheets to the professor in class by presentation day.
-        Failure to follow the instructions exactly will incur a 10% penalty on the grade for this assignment.
+        Upload the code and documentation for this project to a new public GitHub repository. To complete your
+        submission, print the next two sheets, fill out the spaces on the first sheet,and submit both sheets to 
+        the professor in class by presentation day. Failure to follow the instructions exactly will incur a 10% 
+        penalty on the grade for this assignment.
