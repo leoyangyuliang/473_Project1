@@ -18,17 +18,17 @@
             School email: vho23@csu.fullerton.edu
             Last 4 digits CWID: 1548
         2.Henry Ho:
-            School email: @csu.fullerton.edu
-            Last 4 digits CWID:
+            School email: kevinkheradvar@csu.fullerton.edu
+            Last 4 digits CWID: 6221
         3.Henry Ho:
-            School email: @csu.fullerton.edu
-            Last 4 digits CWID:
+            School email: yangyuliang@csu.fullerton.edu
+            Last 4 digits CWID: 9520
         4.Henry Ho:
-            School email: @csu.fullerton.edu
-            Last 4 digits CWID:
+            School email: Sinaali@csu.fullerton.edu
+            Last 4 digits CWID: 4704
         5.Henry Ho:
-            School email: @csu.fullerton.edu
-            Last 4 digits CWID:
+            School email: chinahuang@csu.fullerton.edu
+            Last 4 digits CWID: 3142
 
     III.Requirements:
     
