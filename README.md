@@ -17,16 +17,16 @@
         1.Henry Ho:
             School email: vho23@csu.fullerton.edu
             Last 4 digits CWID: 1548
-        2.Henry Ho:
+        2.Kevin Kheradvar:
             School email: kevinkheradvar@csu.fullerton.edu
             Last 4 digits CWID: 6221
-        3.Henry Ho:
+        3.Leo Yang:
             School email: yangyuliang@csu.fullerton.edu
             Last 4 digits CWID: 9520
-        4.Henry Ho:
+        4.Sina Heydarimolaei:
             School email: Sinaali@csu.fullerton.edu
             Last 4 digits CWID: 4704
-        5.Henry Ho:
+        5.Xainghui huang:
             School email: chinahuang@csu.fullerton.edu
             Last 4 digits CWID: 3142
 
