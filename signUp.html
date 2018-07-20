@@ -33,30 +33,40 @@
       </ul>
     </nav>
   <!--End navbar-->
-
-  <!--start jumbotron-->
-    <div class="jumbotron text-center">
-      <h1>Welcome To Quiz Creator</h1>
-    </div>
-  <!--End jumbotron-->
   </div>
-
-<!--start button create or take-->  
-  <div class="button-homepage">
-    <div class="row">
-        <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
-          <div class="row">
-            <div class="col-xs-6 text-right wow fadeInUp" data-wow-delay="1s">
-              <a href="login.html" class="btn btn-secondary btn-lg scroll">Create A Quiz</a>
-            </div>
-            <div class="col-xs-6 text-left wow fadeInUp" data-wow-delay="1.4s">
-              <a href="#" class="btn btn-primary btn-lg scroll">Take A Quiz</a>
-            </div>
-          </div><!--End Button Row-->  
+  <!--start form-->
+<div class="container">
+    <form data-user-info="form">
+        <div class="form-group">
+          <h2 class="text-center">Create account</h2>
         </div>
-      </div>
-  </div>
-<!--end start button create or take-->
+        <div class="form-group">
+          <label class="control-label" for="signupName">Your name</label>
+          <input id="signupName" name="name" type="text" maxlength="50" class="form-control" autofocus required>
+        </div>
+        <div class="form-group">
+          <label class="control-label" for="signupEmail">Email</label>
+          <input id="signupEmail" name="email" type="email" maxlength="50" class="form-control"  required>
+        </div>
+        <div class="form-group">
+          <label class="control-label" for="signupPassword">Password</label>
+          <input id="signupPassword" name="password" type="password" maxlength="25" class="form-control" length="40" required>
+        </div>
+        <div class="form-group">
+          <label class="control-label" for="signupPasswordAgain">Re-enter password</label>
+          <input id="signupPasswordAgain" name="passwordAgain" type="password" maxlength="25" class="form-control" required>
+        </div>
+        <div class="form-group">
+          <button id="signupSubmit" type="submit" class="btn btn-info btn-block">Create your account</button>
+        </div>
+        <p class="form-group">By creating an account, you agree to our <a href="#" data-toggle="modal" data-target="#terms-of-use">Terms of Use</a> and our <a href="#" data-toggle="modal" data-target="#privacy-policy">Privacy Policy</a>.</p>
+        <hr>
+        <p></p>Already have an account? <a href="login.html">Log in</a>
+        <p></p>
+      </form>
+
+</div>
+<!--end form-->
 
 <!--star footer-->
   <div class="container-fluid">
@@ -73,7 +83,7 @@
                 <div class="col-md-2">
                     <h5>About us</h5>
                     <ul>
-                        <li><a href="aboutUs.html">About Us</a></li>
+                        <li><a href="contactUs.html">Contact us</a></li>
                     </ul>
                 </div>
             </div>

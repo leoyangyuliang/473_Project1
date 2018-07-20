@@ -13,6 +13,7 @@
   <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <link rel="stylesheet" href="stylesheets/Footer-map.css">
+  <script src="login.js"></script>
 </head>
 
 <body>
@@ -24,10 +25,10 @@
   <!--Link navbar-->
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="#">Home</a>
+          <a class="nav-link" href="homepage.html">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">About Us</a>
+          <a class="nav-link" href="aboutUs.html">About Us</a>
         </li>
       </ul>
     </nav>
@@ -46,16 +47,16 @@
         <form>
           <h2 class="text-center">Account Log-in</h2>
           <div class="form-group">
-              <label for="email">Username:</label>
-              <input type="text" class="form-control" id="username" name="username">
+              <label for="email">Email:</label>
+              <input type="email" class="form-control input-lg" name="email" id="emailInput" placeholder="Email Address" autofocus required>
             </div>
             <div class="form-group">
               <label for="pwd">Password:</label>
-              <input type="password" class="form-control" id="password" name="password">
+              <input type="password" maxlength= "25" class="form-control input-lg" id="passwordInput" name="password">
             </div>
             <button type="submit" id="btn_submit" name="btn_submit" class="btn btn-primary">Submit</button>
         </form>
-        <p class="text-center small">Not a member? <a href="#">Sign Up</a></p>
+        <p class="text-center small">Not a member? <a href="signUp.html">Sign Up</a></p>
     </div>
   </div>
 <!--End register form-->
@@ -68,15 +69,14 @@
                 <div class="col-md-2">
                     <h5>Get started</h5>
                     <ul>
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">Sign up</a></li>
+                        <li><a href="homepage.html">Home</a></li>
+                        <li><a href="signUp.html">Sign up</a></li>
                     </ul>
                 </div>
                 <div class="col-md-2">
                     <h5>About us</h5>
                     <ul>
-                        <li><a href="#">School Information</a></li>
-                        <li><a href="#">Contact us</a></li>
+                        <li><a href="aboutUs.html">About Us</a></li>
                     </ul>
                 </div>
             </div>
