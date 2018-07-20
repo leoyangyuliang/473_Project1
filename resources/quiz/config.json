@@ -1,0 +1,45 @@
+{
+	"type": "Collection",
+	"properties": {
+		"questions": {
+			"name": "questions",
+			"type": "array",
+			"typeLabel": "array",
+			"required": true,
+			"id": "questions",
+			"order": 0
+		},
+		"answers": {
+			"name": "answers",
+			"type": "array",
+			"typeLabel": "array",
+			"required": true,
+			"id": "answers",
+			"order": 1
+		},
+		"username": {
+			"name": "username",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "username",
+			"order": 2
+		},
+		"quizName": {
+			"name": "quizName",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "quizName",
+			"order": 3
+		},
+		"results": {
+			"name": "results",
+			"type": "array",
+			"typeLabel": "array",
+			"required": true,
+			"id": "results",
+			"order": 4
+		}
+	}
+}
