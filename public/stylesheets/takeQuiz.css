@@ -3,9 +3,18 @@
     margin-bottom: 80px;
 }
 
-p {padding-left: 40em;}
+p {
+  text-align: center;
+}
 
-g{padding-left: 40em;}
+g{
+  text-align: center;
+}
+
+
+.option-input{
+  text-align: center;
+}
 
 .btn{
   margin: 15px;
@@ -14,3 +23,6 @@ g{padding-left: 40em;}
   text-align: center;
   margin-bottom: 50px;
 }
+/* .questions{
+  text-align:center;
+} */
