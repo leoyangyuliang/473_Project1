@@ -1,28 +1,29 @@
+
 .button-homepage{
-    margin-top:50px;
-    margin-bottom: 80px;
-}
-
-p {
-  text-align: center;
-}
-
-g{
-  text-align: center;
-}
-
-
-.option-input{
-  text-align: center;
+    margin-top:100px;
+    margin-bottom: 100px;
+    text-align: left;
 }
 
 .btn{
   margin: 15px;
 }
+
 .btnGang{
-  text-align: center;
-  margin-bottom: 50px;
+  text-align:left;
+  width: 100%;
 }
-/* .questions{
-  text-align:center;
-} */
+
+.questions{
+
+
+}
+
+
+.question_2 {
+  text-align: left;
+}
+
+.questions_noSubmit{
+  padding: 200px;
+}

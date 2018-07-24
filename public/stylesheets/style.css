@@ -12,3 +12,11 @@
   text-align:center;
   width: 100%;
 }
+
+textarea{
+  height:80px;
+}
+
+.createquizgroup{
+  padding-left: 100px;
+}
