@@ -8,7 +8,7 @@
 
     II.Technologies: 
 
-        Use client-side JavaScript, Ajax, Mysql, PHP, HTML, CSS,
+        Use client-side JavaScript, Deployd, HTML, CSS,
         Bootstrap to build the website with database running on 
         localhost.
 
