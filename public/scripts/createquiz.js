@@ -7,7 +7,7 @@ function createQuiz() {
   var quizname = document.getElementById("quizName").value;
   var question = [];
   var answer = [];
-  var result = [];
+  var quiz_result = [];
   var question_name = "question_";
   for(var i = 1; i <= 10; i++){
     var question_real_name = question_name + i.toString();
@@ -21,11 +21,11 @@ function createQuiz() {
   }
   for(var i = 1; i <= 4; i++){
     var result_real_name = "result_" + i.toString();
-    result.push(document.getElementById(answer_real_name).value);
-    console.log(result.length);
+    quiz_result.push(document.getElementById(result_real_name).value);
+    console.log(quiz_result.length);
   }
   dpd.quiz.post({"username":username,"quizName":quizname,
-   "questions":question, "answers":answer, "results":result}
+   "questions":question, "answers":answer, "results":quiz_result}
   , function(result, err) {
     if(err) return console.log(err);
     else{

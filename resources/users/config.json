@@ -5,7 +5,7 @@
 			"name": "email",
 			"type": "string",
 			"typeLabel": "string",
-			"required": true,
+			"required": false,
 			"id": "email",
 			"order": 0
 		}
